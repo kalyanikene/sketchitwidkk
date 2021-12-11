@@ -73,12 +73,9 @@
       background-color: rgb(211, 189, 192);
 
       width: 100%;
-      border: 1px solid #ccc;   
-      /* margin-left: 40%;
-      margin-top: 2%;
-      margin-bottom: 1%; */
+      border: 1px solid #ccc; 
       padding: 15px 25px 25px 25px;
-      box-sizing: border-box;
+      color: rgb(68, 60, 60);
      
   }
 
