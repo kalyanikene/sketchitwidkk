@@ -1,8 +1,8 @@
-* { 
+/* * { 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 .heading{
     text-align: center;
@@ -29,7 +29,7 @@
 }
 
 .aboutdiv{
-    background-color: #75726d;
+    background-color: #a39883;
     padding-top: 3%;
     padding-left: 10%;
     padding-right: 10%;
@@ -40,7 +40,7 @@
 
 .aboutcontent{
     text-align: center;
-    color: rgb(39, 38, 38);
+    color: rgb(68, 63, 63);
     font-family: cursive;
    
 }
@@ -61,6 +61,7 @@
 .Sketchcontent{
   display: flex;
   margin:auto;
+  color: rgb(66, 65, 65);
 }
 
 * {
@@ -70,11 +71,14 @@
   .moreinfo{
       text-align: center;
       background-color: rgb(211, 189, 192);
-      width: 20%;
+
+      width: 100%;
       border: 1px solid #ccc;   
-      margin-left: 40%;
+      /* margin-left: 40%;
       margin-top: 2%;
+      margin-bottom: 1%; */
       padding: 15px 25px 25px 25px;
+      box-sizing: border-box;
      
   }
 
