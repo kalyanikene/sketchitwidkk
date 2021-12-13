@@ -1,9 +1,7 @@
-/* * { 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
 
+body{
+    background-color: rgb(211, 236, 236);
+}
 .heading{
     text-align: center;
     font-style:italic;
@@ -17,7 +15,7 @@
     width: 400px;
     margin-left: 27%;
     border-radius: 50%;
-  
+     
 } 
 
 .banner{
@@ -25,7 +23,6 @@
     background-image: url("https://www.liveabout.com/thmb/S3rFQsbRntPRvYgNBc6MDe9yLP0=/2121x1414/filters:fill(auto,1)/color-pencils-on-wood-background-840726456-5c5b06cbc9e77c0001d9293e.jpg");
     width: 100%;
     height: 550px;
-   
 }
 
 .aboutdiv{
@@ -70,14 +67,15 @@
 
   .moreinfo{
       text-align: center;
-      background-color: rgb(211, 189, 192);
-
+      background-color: rgb(230, 219, 221);
       width: 100%;
-      border: 1px solid #ccc; 
-      padding: 15px 25px 25px 25px;
+      padding: 15px 25px 15px 25px;
       color: rgb(68, 60, 60);
-     
+      
+   
   }
+
+ 
 
   .contactus{
     
