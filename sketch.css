@@ -2,11 +2,13 @@
 body{
     background-color: rgb(211, 236, 236);
 }
-.heading{
+/* .heading{
     text-align: center;
     font-style:italic;
-    color: rgba(48, 46, 46, 0.966);
+    font-family: cursive ;
+    color: #360815;
     font-size:50px ;
+   
  
 }
 
@@ -20,13 +22,13 @@ body{
 
 .banner{
    
-    background-image: url("https://www.liveabout.com/thmb/S3rFQsbRntPRvYgNBc6MDe9yLP0=/2121x1414/filters:fill(auto,1)/color-pencils-on-wood-background-840726456-5c5b06cbc9e77c0001d9293e.jpg");
+    background-image: url("https://thumbs.dreamstime.com/b/various-art-design-paints-background-tools-high-resolution-66114644.jpg");
     width: 100%;
-    height: 550px;
-}
+    height: 500px;
+} */
 
 .aboutdiv{
-    background-color: #a39883;
+    background-color: lightgrey;
     padding-top: 3%;
     padding-left: 10%;
     padding-right: 10%;
@@ -48,17 +50,16 @@ body{
     width: 330px;
     box-shadow:10px 5px 10px 9px rgb(172, 172, 172);
     margin-top: 1%;
-    margin-left: 2%;
+    margin-left:1%;
     flex: 44%;
     padding: 5%;
-    border: grey;
     border-radius: 2%;
 }
 
 .Sketchcontent{
   display: flex;
   margin:auto;
-  color: rgb(66, 65, 65);
+  
 }
 
 * {
@@ -71,8 +72,7 @@ body{
       width: 100%;
       padding: 15px 25px 15px 25px;
       color: rgb(68, 60, 60);
-      
-   
+       
   }
 
  
